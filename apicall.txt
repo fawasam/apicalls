@@ -1,0 +1,6 @@
+4 WAYS TO CALL API_KEY
+
+1  ]  XMLHttpRequest
+Fetch Api
+Axios
+JQurey
